@@ -35,4 +35,4 @@ Fonctionality will be then added little by little from here.
 - Robots may share their learnings and environment monitorings
 - We may, or not, crypt the communication between robots
 - We may, or not, add communication or interaction with the environment
-- Names will try to mimic real life names. For example modular functions will be "organs"; Solar panel will be "leaf", etc.
+- We may, or not, follow ROS.org architecture
