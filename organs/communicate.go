@@ -4,7 +4,7 @@ Package communicate is the communication organ.
 This is not fixed yet, but we will try to follow ros.org messages format :
 see http://wiki.ros.org/msg
 */
-Package communicate
+package communicate
 
 // Alive ask a robot if he is alive.
 //
